@@ -1,2 +1,15 @@
-# expense-splitter
-Aplicación de división de gastos similar a Splitwise - Construida con Claude
+# Dependencias
+node_modules/
+
+# Build
+/dist/
+
+# Archivos del entorno
+.env
+.env.local
+
+# Sistema operativo
+.DS_Store
+
+# Vite
+.vite/
